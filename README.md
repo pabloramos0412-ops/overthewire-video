@@ -1,3 +1,5 @@
+These are the commands and findings for the first 4 levels of overthewire.
+
 <img width="334" height="17" alt="Screenshot 2026-06-17 221830" src="https://github.com/user-attachments/assets/b5eff3b4-2392-4902-aab2-4b2280f7471f" />
 <img width="581" height="140" alt="Screenshot 2026-06-17 221908" src="https://github.com/user-attachments/assets/0f48395a-ded0-4db7-9cad-5b80e9d92e87" />
 <img width="229" height="56" alt="Screenshot 2026-06-17 221954" src="https://github.com/user-attachments/assets/192f6d63-e9c8-43d1-834f-6c635c429e26" />
